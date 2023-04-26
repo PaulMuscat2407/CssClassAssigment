@@ -1,5 +1,5 @@
 {
-  "cars":{
+  "cars":[
     {
       "id": 1,
       "make": "Volvo",
@@ -20,7 +20,7 @@
       "mileage": 85000,
       "manual": false
     }
-  }
+  ]
 }
   
   
